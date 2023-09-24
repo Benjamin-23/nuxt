@@ -43,7 +43,7 @@
     "@nuxt/webpack-builder": "workspace:*",
     "@nuxtjs/eslint-config-typescript": "12.1.0",
     "@types/fs-extra": "11.0.2",
-    "@types/node": "18.17.18",
+    "@types/node": "18.17.19",
     "@types/semver": "7.5.2",
     "case-police": "0.6.1",
     "changelogen": "0.5.5",
